@@ -1,0 +1,13 @@
+.container {
+  font-size: 16px;
+}
+
+.input {
+  min-width: 350px;
+  padding: 5px 5px 0;
+
+  font-size: 16px;
+  background-color: inherit;
+  border: none;
+  border-bottom: 1px solid #242424;
+}

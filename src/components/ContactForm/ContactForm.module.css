@@ -1,0 +1,33 @@
+.form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.label {
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.input {
+  min-width: 350px;
+  margin-left: auto;
+  margin-bottom: 10px;
+  padding: 5px;
+
+  font-size: 16px;
+
+  border: none;
+  border-bottom: 1px solid #494646;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 15px;
+  font-weight: 700;
+  color: #fff;
+  background-color: #ff7949;
+  border: none;
+  border-radius: 5px;
+}
